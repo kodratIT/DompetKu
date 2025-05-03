@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Catat Uang</string>
+    <string name="title_activity_login">Halaman Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Kata Sandi</string>
+    <string name="action_sign_in">Masuk atau Daftar</string>
+    <string name="action_sign_in_short">Masuk</string>
+    <string name="welcome">Selamat Datang!</string>
+    <string name="invalid_username">Nama pengguna tidak valid</string>
+    <string name="invalid_password">Kata sandi harus lebih dari 5 karakter</string>
+    <string name="login_failed">Gagal masuk</string>
+    <!-- TODO: Hapus atau ubah teks placeholder ini -->
+    <string name="hello_blank_fragment">Halo dari fragmen kosong</string>
+    <string name="webclientid">857837890100-l8j2qtb9ft7mb42dnm1l342l62ero0ij.apps.googleusercontent.com</string>
+</resources>

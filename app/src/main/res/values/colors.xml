@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna Utama (lebih soft dan modern) -->
+    <color name="purple_200">#D1C4E9</color>         <!-- Soft lavender -->
+    <color name="purple_500">#7E57C2</color>         <!-- Medium vibrant purple -->
+    <color name="purple_700">#512DA8</color>         <!-- Deep violet -->
+
+    <!-- Warna Sekunder yang segar -->
+    <color name="teal_200">#A0E7E5</color>           <!-- Pastel aqua -->
+    <color name="teal_700">#00BFA6</color>           <!-- Bright teal -->
+
+    <!-- Netral -->
+    <color name="black">#222222</color>              <!-- Soft black -->
+    <color name="white">#FFFFFF</color>              <!-- Pure white -->
+
+    <!-- Warna Branding & Aksen (versi disesuaikan) -->
+    <color name="orangePrimary">#FF6F61</color>      <!-- Coral: lebih human-friendly -->
+    <color name="toscaSecondary">#20C997</color>     <!-- Fresh turquoise -->
+    <color name="orangeSecondary">#FFD166</color>    <!-- Warm pastel orange -->
+    <color name="toscaWhite">#E0F7FA</color>         <!-- Soft light aqua -->
+
+    <!-- Indikator Positif & Negatif -->
+    <color name="greenIncome">#00C853</color>        <!-- Bright green -->
+    <color name="redExpense">#D32F2F</color>         <!-- Strong red -->
+    <color name="toscaDarker">#008080</color>        <!-- Deep tosca -->
+</resources>
